@@ -16,8 +16,8 @@ Your users should be able to:
 
 ### Screenshot
 
-![Desktop](./public/images/screenshot-desktop.png)
-![Mobile](./public/images/screenshot-mobile.png)
+![Desktop](./public/assets/images/screenshot-desktop.png)
+![Mobile](./public/assets/images/screenshot-mobile.png)
 
 ### Links
 
