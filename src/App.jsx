@@ -20,11 +20,11 @@ function App() {
   return (
     <main className='main-container'>
       <section className='logo-container'>
-        <img className='logo' src='/assets/images/logo.svg'/>
+        <img className='logo' src='./assets/images/logo.svg'/>
       </section>
       <section className='hero-container'>
-        <img className='hero-mobile' src="/assets/images/hero-mobile.jpg" />
-        <img className='hero-desktop' src="/assets/images/hero-desktop.jpg" />
+        <img className='hero-mobile' src="./assets/images/hero-mobile.jpg" />
+        <img className='hero-desktop' src="./assets/images/hero-desktop.jpg" />
       </section>
       <section className='title-container'>
         <h1 className='title'><span className='title-span'>We're </span>coming soon</h1>
