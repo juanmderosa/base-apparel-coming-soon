@@ -33,7 +33,7 @@ function App() {
       <form className='form-container' onSubmit={handleSubmit}>
         <input ref={inputRef} className={inputClassName} type='email' placeholder='Email Address'/>
         <button type="submit" className='icon-container'>
-          <img src="/assets/images/icon-arrow.svg" alt='icon-arrow' className='icon-arrow'/>
+          <img src="./assets/images/icon-arrow.svg" alt='icon-arrow' className='icon-arrow'/>
         </button>
         <p className={errorClassName}>Please provide a valid E-mail</p>
       </form>

@@ -72,7 +72,7 @@
 }
 
 .input-error-display{
-  background-image: url(./assets/images/icon-error.svg);
+  background-image: url(../assets/images/icon-error.svg);
   background-position: 75%;
   background-repeat: no-repeat;
   border: 1px solid var(--SoftRed);  
